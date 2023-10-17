@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fea37ad-95ed-43a1-9c30-aa246ae3d9ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1vAWVZ6QwhsGB90ufkrKZSFvWCd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/22_sorting" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.marge_sort">
+    <configuration name="Bubble_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New-GetFreeCourses.Co-Udemy-The Complete Data Structures and Algorithms Course in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_sorting/Bubble_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selection_Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New-GetFreeCourses.Co-Udemy-The Complete Data Structures and Algorithms Course in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\python progrming\data structure and algorithme\New-GetFreeCourses.Co-Udemy-The Complete Data Structures and Algorithms Course in Python\22_sorting\Selection_Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insertion_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New-GetFreeCourses.Co-Udemy-The Complete Data Structures and Algorithms Course in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_sorting/insertion_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="New-GetFreeCourses.Co-Udemy-The Complete Data Structures and Algorithms Course in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="marge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New-GetFreeCourses.Co-Udemy-The Complete Data Structures and Algorithms Course in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22_sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22_sorting/marge_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="world_population" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="New-GetFreeCourses.Co-Udemy-The Complete Data Structures and Algorithms Course in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../book python crash course a atomation/project data visualization/chapter_16_downloading_data/mapping_global_data_sets" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../book python crash course a atomation/project data visualization/chapter_16_downloading_data/mapping_global_data_sets/world_population.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.marge_sort" />
+        <item itemvalue="Python.insertion_sort" />
+        <item itemvalue="Python.Selection_Sort" />
+        <item itemvalue="Python.Bubble_sort" />
+        <item itemvalue="Python.world_population" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fea37ad-95ed-43a1-9c30-aa246ae3d9ee" name="Default Changelist" comment="" />
+      <created>1626005397751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626005397751</updated>
+      <workItem from="1626005398901" duration="1534000" />
+      <workItem from="1626091665652" duration="1384000" />
+      <workItem from="1626181572789" duration="1186000" />
+      <workItem from="1626271659965" duration="2797000" />
+      <workItem from="1626328522159" duration="844000" />
+      <workItem from="1627727920782" duration="1317000" />
+      <workItem from="1627732968494" duration="596000" />
+      <workItem from="1627819281938" duration="8065000" />
+      <workItem from="1628070526560" duration="47000" />
+      <workItem from="1629197607430" duration="1826000" />
+      <workItem from="1629373476641" duration="1302000" />
+      <workItem from="1629464926570" duration="4808000" />
+      <workItem from="1629538491346" duration="94000" />
+      <workItem from="1629543857986" duration="35000" />
+      <workItem from="1629543894199" duration="696000" />
+      <workItem from="1629632190429" duration="658000" />
+      <workItem from="1629727473033" duration="1388000" />
+      <workItem from="1629799641485" duration="637000" />
+      <workItem from="1629815739588" duration="1196000" />
+      <workItem from="1629885965511" duration="1484000" />
+      <workItem from="1629894781968" duration="1656000" />
+      <workItem from="1629968787337" duration="2554000" />
+      <workItem from="1629980972613" duration="1815000" />
+      <workItem from="1630056104793" duration="115000" />
+      <workItem from="1630948209720" duration="2424000" />
+      <workItem from="1631099862491" duration="59000" />
+      <workItem from="1631119836545" duration="2831000" />
+      <workItem from="1631192581548" duration="611000" />
+      <workItem from="1631812551064" duration="2000" />
+      <workItem from="1631873897920" duration="2829000" />
+      <workItem from="1632061927857" duration="3980000" />
+      <workItem from="1632148136896" duration="3329000" />
+      <workItem from="1632230166142" duration="210000" />
+      <workItem from="1632238375998" duration="1408000" />
+      <workItem from="1632320655812" duration="602000" />
+      <workItem from="1632490705786" duration="35000" />
+      <workItem from="1632574991555" duration="282000" />
+      <workItem from="1632587277252" duration="836000" />
+      <workItem from="1632669939958" duration="630000" />
+      <workItem from="1632757778765" duration="939000" />
+      <workItem from="1632836299300" duration="232000" />
+      <workItem from="1633359793132" duration="2698000" />
+      <workItem from="1633426197636" duration="2038000" />
+      <workItem from="1633431240000" duration="6512000" />
+      <workItem from="1633615857853" duration="3203000" />
+      <workItem from="1633791729658" duration="3013000" />
+      <workItem from="1633879587721" duration="1326000" />
+      <workItem from="1633960979816" duration="3264000" />
+      <workItem from="1634054559622" duration="1946000" />
+      <workItem from="1634138842735" duration="214000" />
+      <workItem from="1635946778888" duration="2135000" />
+      <workItem from="1636171092423" duration="926000" />
+      <workItem from="1637139855676" duration="6679000" />
+      <workItem from="1637318215725" duration="1215000" />
+      <workItem from="1637320570041" duration="3330000" />
+      <workItem from="1637404238852" duration="1603000" />
+      <workItem from="1637496333725" duration="3071000" />
+      <workItem from="1637578745161" duration="2589000" />
+      <workItem from="1637663977059" duration="4998000" />
+      <workItem from="1637831533894" duration="183000" />
+      <workItem from="1637855489566" duration="3851000" />
+      <workItem from="1637920280700" duration="13334000" />
+      <workItem from="1641121060145" duration="59000" />
+      <workItem from="1641121123130" duration="13000" />
+      <workItem from="1641731090580" duration="596000" />
+      <workItem from="1641899489989" duration="37000" />
+      <workItem from="1641899540711" duration="35000" />
+      <workItem from="1641899577062" duration="2062000" />
+      <workItem from="1643108449493" duration="2206000" />
+      <workItem from="1643112249672" duration="1025000" />
+      <workItem from="1643113952318" duration="2471000" />
+      <workItem from="1643272109418" duration="56000" />
+      <workItem from="1643272291118" duration="376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$comapnylogo_hackerrank.coverage" NAME="comapnylogo_hackerrank Coverage Results" MODIFIED="1637667202419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_queue" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$3_update_insert_a_list.coverage" NAME="3_update_insert_a_list Coverage Results" MODIFIED="1633363292568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_list" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$circular_queue_using_list.coverage" NAME="circular_queue_using_list Coverage Results" MODIFIED="1637499277842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_queue" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$fibonacci_using_recurtion.coverage" NAME="fibonacci_using_recursion Coverage Results" MODIFIED="1626274477136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$sum_of_digits_of_positive_number.coverage" NAME="sum_of_digits_of_positive_number Coverage Results" MODIFIED="1629198293389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Cracking Recursion Interview Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_5_intersection.coverage" NAME="question_5_intersection Coverage Results" MODIFIED="1637147484658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_cracking_linked_list_inteview_questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$14_accessing_in_two_D_array.coverage" NAME="14_accessing_in_two_D_array Coverage Results" MODIFIED="1632156424631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$4_creating_an_array.coverage" NAME="4_creating_an_array Coverage Results" MODIFIED="1631874764841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1643110089303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_sorting" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$americas__1_.coverage" NAME="americas (1) Coverage Results" MODIFIED="1637935591268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../book python crash course a atomation/resource/ehmatthes-pcc-f555082/chapter_16/pygal2_update" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$8_finding_an_element.coverage" NAME="8_finding_an_element Coverage Results" MODIFIED="1631876476335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$countries.coverage" NAME="countries Coverage Results" MODIFIED="1637935556444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../book python crash course a atomation/project data visualization/chapter_16_downloading_data/mapping_global_data_sets" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$deletion_entire_circular_singly_linked_list.coverage" NAME="deletion_entire_circular_singly_linked_list Coverage Results" MODIFIED="1635948519658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_linked_list" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$9_dictionary_operations_built_in_functions.coverage" NAME="9_dictionary_operations_built_in_functions Coverage Results" MODIFIED="1633880741604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_dictionary" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_3_stack_of_plates.coverage" NAME="question_3_stack_of_plates Coverage Results" MODIFIED="1637922152648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_Cracking_Stack_and_Queue_Interview_Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$world_population.coverage" NAME="world_population Coverage Results" MODIFIED="1637936724892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../book python crash course a atomation/project data visualization/chapter_16_downloading_data/mapping_global_data_sets" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$6_array_traversal.coverage" NAME="6_array_traversal Coverage Results" MODIFIED="1631875664278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$6_seach_an_element.coverage" NAME="6_seach_an_element Coverage Results" MODIFIED="1633620886882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_dictionary" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$7_lists_and_strings.coverage" NAME="7_lists_and_strings Coverage Results" MODIFIED="1633364589519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_list" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$q5_is_unique.coverage" NAME="q5_is_unique Coverage Results" MODIFIED="1633434279273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_cracking_arrayList_question" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_4_queue_via_stack.coverage" NAME="question_4_queue_via_stack Coverage Results" MODIFIED="1637923172861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_Cracking_Stack_and_Queue_Interview_Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$eq_explore_data.coverage" NAME="eq_explore_data Coverage Results" MODIFIED="1637930166988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../book python crash course a atomation/project data visualization/chapter_16_downloading_data/mapping_global_data_sets" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$advanced_python_module_puzzle.coverage" NAME="advanced_python_module_puzzle Coverage Results" MODIFIED="1629887360833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../complete/practice from  Udemy - complete-python-bootcamp/15 Advanced Python Modules" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$operation_on_stack_using_list.coverage" NAME="operation_on_stack_using_list Coverage Results" MODIFIED="1637321204395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_Stack" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$4_how_to_create_a_basic_tree.coverage" NAME="4_how_to_create_a_basic_tree Coverage Results" MODIFIED="1637927482499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/16_Tree_Binary_Tree" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$6_Types_of_algorith.coverage" NAME="6_Types_of_algorith Coverage Results" MODIFIED="1626006081896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$recursion_in_3_steps.coverage" NAME="recursion_in_3_steps Coverage Results" MODIFIED="1626272562384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$12_creating_two_dimensional_array.coverage" NAME="12_creating_two_dimensional_array Coverage Results" MODIFIED="1632152145970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$collection_module.coverage" NAME="collection_module Coverage Results" MODIFIED="1637672032135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_queue" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$create_stack_using_linked_list.coverage" NAME="create_stack_using_linked_list Coverage Results" MODIFIED="1637325013834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_Stack" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$Queue_Module.coverage" NAME="Queue_Module Coverage Results" MODIFIED="1637581603427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_queue" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_3_partion.coverage" NAME="question_3_partion Coverage Results" MODIFIED="1637142997745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_cracking_linked_list_inteview_questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$5_Searching_an_element_in_a_list.coverage" NAME="5_Searching_an_element_in_a_list Coverage Results" MODIFIED="1633363952073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_list" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$how_to_calculate_power_of_number_by_recursion.coverage" NAME="how_to_calculate_power_of_number_by_recursion Coverage Results" MODIFIED="1629199463592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Cracking Recursion Interview Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$q2_pairs.coverage" NAME="q2-pairs Coverage Results" MODIFIED="1633428325838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_cracking_arrayList_question" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$18_deletion_2D_array.coverage" NAME="18_deletion_2D_array Coverage Results" MODIFIED="1632587846565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$6_list_operations_functions.coverage" NAME="6_list_operations_functions Coverage Results" MODIFIED="1633364304219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_list" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$13_inserton_two_D_array.coverage" NAME="13_inserton_two_D_array Coverage Results" MODIFIED="1632152843360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$7_delete_remove_an_element.coverage" NAME="7_delete_remove_an_element Coverage Results" MODIFIED="1633621157711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_dictionary" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$8_dictrionry_methods.coverage" NAME="8_dictrionry_methods Coverage Results" MODIFIED="1633794961116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_dictionary" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$11_one_dimensional_array_pracrice.coverage" NAME="11_one_dimensional_array_pracrice Coverage Results" MODIFIED="1632063220946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_5_animal_shelter.coverage" NAME="question_5_animal_shelter Coverage Results" MODIFIED="1637924108430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_Cracking_Stack_and_Queue_Interview_Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$4_insert_Update_an_element_in_a_dict.coverage" NAME="4_insert_Update_an_element_in_a_dict Coverage Results" MODIFIED="1633620511073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_dictionary" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$5_traverse_a_dict.coverage" NAME="5_traverse_a_dict Coverage Results" MODIFIED="1633620644077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_dictionary" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$16_searching_an_element_in_two_D_array.coverage" NAME="16_searching_an_element_in_two_D_array Coverage Results" MODIFIED="1632239702492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$Bubble_sort.coverage" NAME="Bubble_sort Coverage Results" MODIFIED="1641900807587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_sorting" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$q1_missing_number.coverage" NAME="q1_missing_number Coverage Results" MODIFIED="1633427839385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_cracking_arrayList_question" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$coutry_codes.coverage" NAME="coutry_codes Coverage Results" MODIFIED="1637934908284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../book python crash course a atomation/project data visualization/chapter_16_downloading_data/mapping_global_data_sets" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$marge_sort.coverage" NAME="marge_sort Coverage Results" MODIFIED="1643115996243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_sorting" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$multiprocessing_module.coverage" NAME="multiprocessing_module Coverage Results" MODIFIED="1637672256917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_queue" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$create_queue_using_list_without_limit.coverage" NAME="create_queue_using_list_without_limit Coverage Results" MODIFIED="1637405785418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_queue" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_2_ruturn_nth_to_last.coverage" NAME="question_2_ruturn_nth_to_last Coverage Results" MODIFIED="1637140511307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_cracking_linked_list_inteview_questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_2_Stack_Min.coverage" NAME="question_2_Stack_Min Coverage Results" MODIFIED="1637860311936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_Cracking_Stack_and_Queue_Interview_Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$etc.coverage" NAME="etc Coverage Results" MODIFIED="1627830006568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Cracking Recursion Interview Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$15_traversal_2D_array.coverage" NAME="15_traversal_2D_array Coverage Results" MODIFIED="1632239629747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$convert_a_number_decimal_to_binary.coverage" NAME="convert_a_number_decimal_to_binary Coverage Results" MODIFIED="1629374735305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Cracking Recursion Interview Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$1_recursion_on_russianDoll.coverage" NAME="1.recursion_on_russianDoll Coverage Results" MODIFIED="1626006885880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$224read_csv_with_dictreader.coverage" NAME="224read_csv_with_dictreader Coverage Results" MODIFIED="1629471653292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../harshit vashisth youtube" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$Swlection_Sort.coverage" NAME="Swlection_Sort Coverage Results" MODIFIED="1641901864614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22_sorting" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$q7_Rotate_matrix.coverage" NAME="q7_Rotate_matrix Coverage Results" MODIFIED="1633439430172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_cracking_arrayList_question" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$7_accessing_an_element_of_array.coverage" NAME="7_accessing_an_element_of_array Coverage Results" MODIFIED="1631876129085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$americas.coverage" NAME="americas Coverage Results" MODIFIED="1637935691759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../book python crash course a atomation/project data visualization/chapter_16_downloading_data/mapping_global_data_sets" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_1_three_in_one.coverage" NAME="question_1_three_in_one Coverage Results" MODIFIED="1637858501977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_Cracking_Stack_and_Queue_Interview_Questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$q6_permutation.coverage" NAME="q6_permutation Coverage Results" MODIFIED="1633438413119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_cracking_arrayList_question" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$q6.coverage" NAME="q6 Coverage Results" MODIFIED="1630949824438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Top_10_Big_O_interview_questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$countries__1_.coverage" NAME="countries (1) Coverage Results" MODIFIED="1637934406529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../book python crash course a atomation/resource/ehmatthes-pcc-f555082/chapter_16/pygal2_update" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$create_a_tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1633962395860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_tuple" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$question_4_sum_linked_list.coverage" NAME="question_4_sum_linked_list Coverage Results" MODIFIED="1637144739476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_cracking_linked_list_inteview_questions" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$how_to_recursion_work.coverage" NAME="how_to_recursion_work Coverage Results" MODIFIED="1626093045709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$5_insertion_operation.coverage" NAME="5_insertion_operation Coverage Results" MODIFIED="1631875572373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$q3_finding_a_number_in_a_array.coverage" NAME="q3_finding_a_number_in_a_array Coverage Results" MODIFIED="1633428629562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_cracking_arrayList_question" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$creation_doubly_linked_list.coverage" NAME="creation_doubly_linked_list Coverage Results" MODIFIED="1635949633819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_linked_list" />
+    <SUITE FILE_PATH="coverage/New_GetFreeCourses_Co_Udemy_The_Complete_Data_Structures_and_Algorithms_Course_in_Python$9_deleting_an_element.coverage" NAME="9_deleting_an_element Coverage Results" MODIFIED="1631876690899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6array" />
+  </component>
+</project>

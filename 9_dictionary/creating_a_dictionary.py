@@ -1,0 +1,3 @@
+mydict = dict()
+# or
+secondDict = {}
